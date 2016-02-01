@@ -7,12 +7,12 @@
 
 # Site settings
 title: Lanx Satura
-email: remi.chauvin@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  © 2016 by Lanx Satura : Usman W. Chohan and Rémi Chauvin. `Castigat Ridiendo Mores` | | The Global Satire Index
+  © 2016 by Lanx Satura : Usman W. Chohan and Rémi Chauvin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lanxsatura.github.io" # the base hostname & protocol for your site
-twitter_username: lanxsatura
+#twitter_username: lanxsatura
 github_username:  lanxsatura
 
 # Build settings

@@ -2,12 +2,13 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+<!--    <h2 class="footer-heading">{{ site.title }}</h2>   -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li><em><em><em>{{ site.title }} - "Castigat Ridiendo Mores"</em></em></em></li>
+          <li>The Global Satire Index</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
@@ -16,7 +17,7 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            @ GitHub {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
 
@@ -29,7 +30,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <p><em><em><em>{{ site.description }}</em></em></em></p>
       </div>
     </div>
 
