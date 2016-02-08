@@ -4,7 +4,6 @@ title:  "Global Index 2016 v3"
 date:   2016-02-07 23:08:31 -0600
 categories: rating
 ---
-
   <style type="text/css">
       table tr td, table tr th {
         padding: 3px;
@@ -16,7 +15,7 @@ categories: rating
         background-color: #d1e6e6;
       }
       tr:nth-child(2n) {
-        background-color: #C9DBDB;
+        background-color: #c9dbdb;
       }
       td:nth-last-child(1) {
         background-color: #eeede7;
@@ -65,8 +64,6 @@ categories: rating
 		$("td:contains('NOT THAT LARGE')").css("color", "red");
 		$("td:contains('NOT THAT FAST')").css("color", "red");
 		$("td:contains('NOT THAT HIGH')").css("color", "red");
-		//$('td[title="Scale"]').css({
-                //  'text-shadow': '-0.53px -0.53px 1px black'});
 	});
 
         $(function() {
