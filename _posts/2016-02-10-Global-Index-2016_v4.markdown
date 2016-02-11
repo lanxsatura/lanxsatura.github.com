@@ -4,7 +4,6 @@ title:  "Global Index 2016 v4"
 date:   2016-02-10 14:37:30 -0600
 categories: rating
 ---
-
   <style type="text/css">
       table tr td, table tr th {
         padding: 5px;
