@@ -42,6 +42,6 @@ We do not consider Facebook pages,Twitter pages nor non-browsable 'prank' websit
 <a target='_blank' href='http://bled-micky.com/'>http://bled-micky.com/</a> ALGERIA FRA<br />
 <a target='_blank' href='http://lecompetiteur.net/'>http://lecompetiteur.net/</a> ALGERIA FRA<br />
 <a target='_blank' href='http://lapravda.ca/'>http://lapravda.ca/</a> CANADA FRA<br />
-### http://www.cahiersdufootball.net/ FRANCE FRA<br />
-### http://www.thegatsby.co.za/ SOUTH AFRICA ENG<br />
-### http://legrosdijon.net/ FRANCE FRA<br />
+
+<del><a target='_blank' href='http://www.thegatsby.co.za/'>http://www.thegatsby.co.za/</a> SOUTH AFRICA ENG</del>  --> Last post on August 25, 2015<br />
+<del><a target='_blank' href='http://legrosdijon.net/'>http://legrosdijon.net/</a> FRANCE FRA</del>  --> Last post on March 01, 2015
